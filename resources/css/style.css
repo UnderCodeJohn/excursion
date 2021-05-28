@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#banner{
+.banner{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
@@ -14,4 +14,8 @@ body{
 .download{
     color: aquamarine;
     font-size: 16px;
+}
+.sidebanner{
+    font-size: 21px;
+    color: gray;
 }
